@@ -1,0 +1,7 @@
+streamlit
+yt-dlp
+transformers
+gtts
+torch
+sentencepiece
+whisper
